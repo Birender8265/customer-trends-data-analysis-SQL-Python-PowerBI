@@ -26,7 +26,9 @@ Clone the repository
 
 
 git clone https://github.com/birender8265/customer-trends-data-analysis-SQL-Python-PowerBI.git
+
 cd customer-trends-data-analysis-SQL-Python-PowerBI
+
 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This file contains:
